@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with getting a job                                       ((+) .  .:)           Stop playing
 - 💬 Ask me about job offers                                                       |'.-(o)-.'|              games
 - 📫 How to reach me: jamesli784@gmail.com                                         \/  \_/  \/          i know you want
-- 😄 Pronouns: un/emploted                                                                                   me 😉
+- 😄 Pronouns: un/employed                                                                                   me 😉
 - ⚡ Fun fact: I want a job
 </pre>
