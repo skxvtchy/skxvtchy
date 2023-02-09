@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jamesli784@gmail.com
 - 😄 Pronouns: un/emploted
 - ⚡ Fun fact: I want a job
-
+            ,---.          U
+           ;     \         ;
+       .==\"/==.  `-.___.-'
+      ((+) .  .:)
+      |`.-(o)-.'|
+      \/  \_/  \/
