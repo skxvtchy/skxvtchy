@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-tldr
 
 - 🔭 I’m currently working on finishing my classes, and trying to get a job
 - 🌱 I’m currently learning scala, python, C, javascript, and how to get a job
