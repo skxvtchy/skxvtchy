@@ -20,8 +20,8 @@ Here are some ideas to get you started:
                    .==\"/==.  `-.___.-'                                      '
                   ((+) .  .:)           Stop playing                        `.
                   |'.-(o)-.'|              games                          .-"-
-                  \/  \_/  \/          i know you want                   (    |   Why did the programmer quit his job? He didn't get arrays💻
-                                            me 😉                   . .-'  '.
+                  \/  \_/  \/          i know you want                   (    |   Why did the programmer quit his job?
+                                            me 😉                   . .-'  '.           He didn't get arrays💻
                                                                    ( (.   )8:
                                                                .'    / (_  )
                                                                 _. :(.   )8P  `
