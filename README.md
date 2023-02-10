@@ -1,4 +1,4 @@
-### Why did the programmer quit his job? He didn't get arrays. 💻
+### Why did the programmer quit his job? He didn't get arrays💻
 
 <!--
 **skxvtchy/skxvtchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
