@@ -9,7 +9,8 @@ Here are some ideas to get you started:
                                                                                   ,' |
                                                                                  /   :           __,-~~/~    `---.    
 - 👋 Welcome Im James Li                                                      --'   /           _/_,---(      ,    )          
-- 😱 Currently UNEMPLOYED                                                     \/ />/        __ /        <    /   )  \___                                                 - 📰 Reading To Crack the Coding Interview                                    / /_\--===;;;'====------------------===;;;===----- -  -          
+- 😱 Currently UNEMPLOYED                                                     \/ />/        __ /        <    /   )  \___
+- 📰 Reading To Crack the Coding Interview                                    / /_\--===;;;'====------------------===;;;===----- -  -         
 - 🎓 Graduation: May 2025                                                  __/   /            \/  ~"~"~"~"~"~\~"~)~"/
 -                                                                          ) '-. /            (_ (   \  (     >    \)
 - 🌎 Website: jamesli.dev                                                  ./  :\              \_( _ <         >_>'
