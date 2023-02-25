@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 -                                        (_(              ) '-. /            (_ (   \  (     >    \)
 - 🌎 Website: jamesli.dev               /_/'_____/)       ./  :\              \_( _ <         >_>'
 - 📫 Reach me @ jamesli784@gmail.com    "  |      |      /.' '                 ~ `-i' ::>|--"
-                                       """""""""""""""   '/'                         I;|.|.|
-       POV: playing Apex                June 10, 2003   +                           <|i::|i|`.        Pointer?
+                                       """""""""""""""   '/'     pls hire me         I;|.|.|
+       POV: playing Apex                June 10, 2003   +      I have no cache      <|i::|i|`.        Pointer?
                   __                                   '                           (` ^'"`-' ")   I barely know her
        ..=====.. |==|     Why did the programmer      `.                  ,---.          U 
        ||     || |= |         quit his job?          "-                  ;     \         ;   
-    _  ||     || |^*| _   He didn't get arrays💻  (    |            .==\""/==.  `-.___.-'      pls hire me
-   |=| o=,===,=o |__||=|                         . .-'  '.          ((+) .  .:)               I have no cache   
-   |_|  _______)~`)  |_|                      ( (.   )8:            |'.-(o)-.'|                 ⊂(◉‿◉)つ
-       [=======]  ()                     .'    / (_  )              \/  \_/  \/   
+    _  ||     || |^*| _   He didn't get arrays💻  (    |            .==\""/==.  `-.___.-'      
+   |=| o=,===,=o |__||=|                         . .-'  '.          ((+) .  .:)                 
+   |_|  _______)~`)  |_|                      ( (.   )8:            |'.-(o)-.'|          Thanks For Visiting       
+       [=======]  ()                     .'    / (_  )              \/  \_/  \/              ⊂(◉‿◉)つ
                                          _. :(.   )8P  `                            
      ( ͡° ͜ʖ ͡°)ﾉ⌐■-■                 .  (  `-' (  `.   )                    
-                                         .  :  (   .a8a)                     Thanks For Visiting :) 
+                                         .  :  (   .a8a)                  
                                   (a:f   "     `"       ` ))
 </pre>
