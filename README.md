@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📰 Reading To Crack the Coding Interview                   / /_\-- --===;;;'====------------------===;;;===------ -
 - 🎓 Graduation: May 2025                                 __/   /               \/  ~"~"~"~"~"~\~"~)~"/
 - 🔍 Interested in getting hired        (_ (              ) '-. /               (_ (   \  (     >    \)
-- 🌎 Website: jamesli.dev               /_/'_____/)       ./  :\                 \_( _ <         >_>'          ( ͡° ͜ʖ ͡°)ﾉ⌐■-■ 
-- 📫 Reach me @ jamesli784@gmail.com    "  |      |      /.' '                      ~ `-i' ::>|--"             -Rizzard of Oz
+- 🌎 Website: jamesli.dev               /_/'_____/)       ./  :\                 \_( _ <         >_>'        ( ͡° ͜ʖ ͡°)ﾉ⌐■-■ 
+- 📫 Reach me @ jamesli784@gmail.com    "  |      |      /.' '                      ~ `-i' ::>|--"           -Rizzard of Oz
                                        """""""""""""""   '/'     pls hire me            I;|.|.|
      POV: playing Apex                  June 10, 2003   +      I have no cache         <|i::|i|`.        Pointer?
                   __                                   '      -not a joke  ಠ_ಠ       (` ^'"`-' ")   I barely know her
