@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 📫 Reach me @ jamesli784@gmail.com    "  |      |      /.' '                    ~ `-i' ::>|--"
                                        """""""""""""""   '/'     pls hire me            I;|.|.|
      POV: playing Apex                  June 10, 2003   +      I have no cache         <|i::|i|`.        Pointer?
-                  __                                   '                              (` ^'"`-' ")   I barely know her
-       ..=====.. |==|     Why did the programmer      `.                   
+                  __                                   '             💵              (` ^'"`-' ")   I barely know her
+       ..=====.. |==|     Why did the programmer      `.                                                   :)
        || Sup || |= |         quit his job?          "-                    \|/
     _  ||     || |^*| _   He didn't get arrays💻  (    |               .==\""/==.    
    |=| o=,===,=o |__||=|                         . .-'  '.             ((+) .  .:)                 
