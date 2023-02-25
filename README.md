@@ -24,8 +24,8 @@ Here are some ideas to get you started:
    |=| o=,===,=o |__||=|                         . .-'  '.             ((+) .  .:)                 
    |_|  _______)~`)  |_|                      ( (.   )8:               |'.-(o)-.'|         Thanks For Visiting!!!
        [=======]  ()                     .'    / (_  )                 \/  \_/  \/              ⊂(◉‿◉)つ
-                                         _. :(.   )8P  `                            
-     ( ͡° ͜ʖ ͡°)ﾉ⌐■-■                 .  (  `-' (  `.   )                    
-                                         .  :  (   .a8a)                  
+                                         _. :(.   )8P  `             I dont even own a               
+     ( ͡° ͜ʖ ͡°)ﾉ⌐■-■                 .  (  `-' (  `.   )                   console
+                                         .  :  (   .a8a)           but I do have a 1080ti       
                                   (a:f   "     `"       ` ))
 </pre>
