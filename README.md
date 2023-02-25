@@ -10,7 +10,7 @@ Here are some ideas to get you started:
                                                                 /   :              __,-~~/~    `---.      
 - 👋 Hi I'm James                                            --'   /              _/_,---(      ,    ) 
 - 😱 Currently UNEMPLOYED     ୧༼ಠ益ಠ༽୨                       \/ />/           __ /        <    /   )  \___
-- 📰 Reading Oyasumi PunPun book 5 -Rating:★★★★☆           /  /_\-- --===;;;'====------------------===;;;===------ -
+- 📰 Reading Oyasumi PunPun book 5 -Rating:★★★★☆          /  /_\-- --===;;;'====------------------===;;;===------ -
 - 🎓 Graduation: May 2025                                 __/   /               \/  ~"~"~"~"~"~\~"~)~"/
 - 🔍 Interested in getting hired        (_ (              ) '-./               (_ (   \  (     >    \)
 - 🌎 Website: jamesli.dev               /_/'_____/)       ./  :\                 \_( _ <         >_>'        ( ͡° ͜ʖ ͡°)ﾉ⌐■-■ 
