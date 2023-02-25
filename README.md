@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 🌎 Website: jamesli.dev               /_/'_____/)       ./  :\              \_( _ <         >_>'
 - 📫 Reach me @ jamesli784@gmail.com    "  |      |      /.' '                 ~ `-i' ::>|--"
                                        """""""""""""""   '/'                         I;|.|.|
-       POV: playing Apex                June 10, 2003   +                           <|i::|i|`.
-                  __                                   '                           (` ^'"`-' ")
+       POV: playing Apex                June 10, 2003   +                           <|i::|i|`.        Pointer?
+                  __                                   '                           (` ^'"`-' ")   I barely know her
        ..=====.. |==|     Why did the programmer      `.                  ,---.          U 
        ||     || |= |         quit his job?          "-                  ;     \         ;   
     _  ||     || |^*| _   He didn't get arrays💻  (    |            .==\""/==.  `-.___.-'
