@@ -1,4 +1,4 @@
-### whats good pussies
+
 
 <!--
 **skxvtchy/skxvtchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 <pre>
                                                                    ,:
-   いらっしゃい---Bienvenido---Welcome---欢迎---مرحباً                ,' |
+   いらっしゃい---Bienvenido---Welcome---欢迎---مرحباً              ,' |
                                                                 /   :           __,-~~/~    `---.    
 - 👋 Hello there I'm James                                   --'   /           _/_,---(      ,    )          
 - 😱 Currently UNEMPLOYED     ୧༼ಠ益ಠ༽୨                       \/ />/        __ /        <    /   )  \___
