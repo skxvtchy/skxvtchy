@@ -22,10 +22,10 @@ Here are some ideas to get you started:
        || Sup || |= |         quit his job?          "-                     
     _  ||     || |^*| _   He didn't get arrays💻  (    |               .==\""/==.    
    |=| o=,===,=o |__||=|                         . .-'  '.             ((+) .  .:)                 
-   |_|  _______)~`)  |_|                      ( (.   )8:               |'.-(o)-.'|         Thanks For Visiting!!!
-       [=======]  ()                     .'    / (_  )                 \/  \_/  \/              ⊂(◉‿◉)つ
-                                         _. :(.   )8P  `            I dont even own a               
+   |_|  _______)~`)  |_|                      ( (.   )):               |'.-(o)-.'|         Thanks For Visiting!!!
+       [=======]  ()                     .'      (_ )                  \/  \_/  \/              ⊂(◉‿◉)つ
+                                         _. :(.   )  )  `           I dont even own a               
                ლ(ಠ_ಠლ)            .  (  `-' (  `.   )                  console
-                                         .  :  (   .a8a)          but I do have a 1080ti       
-                                  (a:f   "     `"       ` ))
+                                         .  :  (__    )  )        but I do have a 1080ti       
+                                (  (   "  __(   `"       ` ))
 </pre>
