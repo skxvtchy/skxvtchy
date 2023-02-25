@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😱 Currently UNEMPLOYED     ୧༼ಠ益ಠ༽୨                       \/ />/        __ /        <    /   )  \___
 - 📰 Reading To Crack the Coding Interview                   / /_\--===;;;'====------------------===;;;===------ -
 - 🎓 Graduation: May 2025                                 __/   /            \/  ~"~"~"~"~"~\~"~)~"/
--                                        (_(              ) '-. /            (_ (   \  (     >    \)
+- 🔍 Interested in getting hired        (_ (              ) '-. /            (_ (   \  (     >    \)
 - 🌎 Website: jamesli.dev               /_/'_____/)       ./  :\              \_( _ <         >_>'
 - 📫 Reach me @ jamesli784@gmail.com    "  |      |      /.' '                 ~ `-i' ::>|--"
                                        """""""""""""""   '/'     pls hire me         I;|.|.|
