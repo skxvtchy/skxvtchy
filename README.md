@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 <pre>
                                                                    ,:
-   いらっしゃい---Welcome---欢迎---Bienvenido---حفلة استقبال           ,' |
+   Bienvenido---欢迎---Welcome---いらっしゃい---حفلة استقبال           ,' |
                                                                 /   :           __,-~~/~    `---.    
 - 👋 Hello there I'm James                                   --'   /           _/_,---(      ,    )          
 - 😱 Currently UNEMPLOYED     ୧༼ಠ益ಠ༽୨                       \/ />/        __ /        <    /   )  \___
