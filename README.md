@@ -5,9 +5,9 @@
 Here are some ideas to get you started:
 -->
 <pre>
-                                                                   ,:
-   Bienvenido---欢迎---Welcome---いらっしゃい---حفلة استقبال           ,' |
-                                                                /   :              __,-~~/~    `---.    
+                                                                   ,:                                                  __|__
+   Bienvenido---欢迎---Welcome---いらっしゃい---حفلة استقبال           ,' |                                      ------oo(_)oo------
+                                                                /   :              __,-~~/~    `---.                
 - 👋 Hello there I'm James                                   --'   /              _/_,---(      ,    )          
 - 😱 Currently UNEMPLOYED     ୧༼ಠ益ಠ༽୨                       \/ />/           __ /        <    /   )  \___
 - 📰 Reading To Crack the Coding Interview                   / /_\-- --===;;;'====------------------===;;;===------ -
