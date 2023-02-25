@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 <pre>
                                                                    ,:
-   いらっしゃい---Welcome---欢迎---Bienvenido---مرحباً               ,' |
+   いらっしゃい---Welcome---欢迎---Bienvenido---حفلة استقبال           ,' |
                                                                 /   :           __,-~~/~    `---.    
 - 👋 Hello there I'm James                                   --'   /           _/_,---(      ,    )          
 - 😱 Currently UNEMPLOYED     ୧༼ಠ益ಠ༽୨                       \/ />/        __ /        <    /   )  \___
@@ -20,12 +20,12 @@ Here are some ideas to get you started:
                   __                                   '                           (` ^'"`-' ")   I barely know her
        ..=====.. |==|     Why did the programmer      `.                  ,---.          U 
        ||     || |= |         quit his job?          "-                  ;     \         ;   
-    _  ||     || |^*| _   He didn't get arrays💻  (    |            .==\""/==.  `-.___.-'
-   |=| o=,===,=o |__||=|                         . .-'  '.          ((+) .  .:)
-   |_|  _______)~`)  |_|                      ( (.   )8:            |'.-(o)-.'|  
+    _  ||     || |^*| _   He didn't get arrays💻  (    |            .==\""/==.  `-.___.-'      pls hire me
+   |=| o=,===,=o |__||=|                         . .-'  '.          ((+) .  .:)               I have no cache   
+   |_|  _______)~`)  |_|                      ( (.   )8:            |'.-(o)-.'|                 ⊂(◉‿◉)つ
        [=======]  ()                     .'    / (_  )              \/  \_/  \/   
                                          _. :(.   )8P  `                            
-     ( ͡° ͜ʖ ͡°)ﾉ⌐■-■                 .  (  `-' (  `.   )                    Thanks For Visiting!!!
-                                         .  :  (   .a8a)                      pls hire me :)
+     ( ͡° ͜ʖ ͡°)ﾉ⌐■-■                 .  (  `-' (  `.   )                    
+                                         .  :  (   .a8a)                     Thanks For Visiting :) 
                                   (a:f   "     `"       ` ))
 </pre>
