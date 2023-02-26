@@ -26,6 +26,6 @@ Here are some ideas to get you started:
    |_|  _______)~`)  |_|                   .'      (_ )                 \/  \_/  \/        
        [=======]  ()                       _. :(.      )  `           I dont even own a  
                                          .  (  `-' (  `.   )              console
-               ლ(ಠ_ಠლ)                .  :  (__    )  )          but I do have a 1080ti           Thanks For Visiting!!!
-                                  (      "  __(   `"       ` ))                                          ⊂(◉‿◉)つ
+               ლ(ಠ_ಠლ)                .  :  (__    )  )          but I do have a 1080ti             Thanks For Visiting!!!
+                                  (      "  __(   `"       ` ))                                            ⊂(◉‿◉)つ
 </pre>
