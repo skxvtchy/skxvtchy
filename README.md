@@ -9,7 +9,7 @@ Here are some ideas to get you started:
   Bienvenido---欢迎---Welcome---いらっしゃい---حفلة استقبال            ,' |                                    ------oo(_)oo------
                                                                 /   :             __,-~~/~ "" `---.      
 - 👋 Hi! I'm James                                           --'   /             _/_,---(      ,    ) 
-- 🤖 Currently UNEMPLOYED            -just like me fr        \/ />/          __ /        <    /   )  \___
+- 🤖 Currently: Undergrad @ UB       -just like me fr        \/ />/          __ /        <    /   )  \___
 - 🎓 Graduation: May 2025     ୧༼ಠ益ಠ༽୨                       /   /_\---===;;;'====------------------===;;;===------ -
 - 📰 Reading Oyasumi PunPun book 5 -Rating:★★★★★       __/   /               \/  ~"~"~"~"~"~\~"~)~"/
 - 🎥 Watching Better Call Saul -Rating:★★★★☆           ) '-./                (_ (   \  (     >    \)
