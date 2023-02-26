@@ -21,7 +21,7 @@ Here are some ideas to get you started:
                    __                                   `.                                               (☞ﾟヮﾟ)☞
         ..=====.. |==|    Why did the programmer        "-                     
         || Sup || |= |        quit his job?💻       (   |                .==\""/==.             ---🛠️Work Experience---
-    _   ||     || |^*| _   He didn't get arrays     . .-'  '.            ((+) .  .:)                     -n/a          
+    _   ||     || |^*| _   He didn't get arrays     . .-'  '.            ((+) .  .:)                               
    |=| o=,===,=o |__||=|                        ( (.   )):               |'.-(o)-.'|                     -n/a
    |_|  _______)~`)  |_|                   .'      (_ )                  \/  \_/  \/        
        [=======]  ()                       _. :(.      )  `           I dont even own a  
