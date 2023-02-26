@@ -10,9 +10,9 @@ Here are some ideas to get you started:
                                                                 /   :             __,-~~/~ "" `---.      
 - 👋 Hi! I'm James                                           --'   /             _/_,---(      ,    ) 
 - 🤖 Currently UNEMPLOYED            -just like me fr        \/ />/          __ /        <    /   )  \___
-- 🎓 Graduation: May 2025     ୧༼ಠ益ಠ༽୨                       / /_\-- --===;;;'====------------------===;;;===------ -
+- 🎓 Graduation: May 2025     ୧༼ಠ益ಠ༽୨                       /   /_\---===;;;'====------------------===;;;===------ -
 - 📰 Reading Oyasumi PunPun book 5 -Rating:★★★★★       __/   /               \/  ~"~"~"~"~"~\~"~)~"/
-- 🎥 Watching Better Call Saul -Rating:★★★★☆           ) '-./               (_ (   \  (     >    \)
+- 🎥 Watching Better Call Saul -Rating:★★★★☆           ) '-./                (_ (   \  (     >    \)
 - 🚀 Interests: Stocks/Crypto/ML/WebDev   (_ (            ./  :\                 \_( _ <         >_>'        ( ͡° ͜ʖ ͡°)ﾉ⌐■-■ 
 - 🌎 Website: jamesli.dev                 /_/'_____/)     /.' '                     ~ `-i' ::>|--"           -Rizzard of Oz
 - 📫 Reach me @ jamesli784@gmail.com      "  |      |     '/'    pls hire me            I;|.|.|
