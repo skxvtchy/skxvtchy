@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌎 Website: jamesli.dev               /_/'_____/)       /.' '                     ~ `-i' ::>|--"           -Rizzard of Oz
 - 📫 Reach me @ jamesli784@gmail.com    "  |      |       '/'    pls hire me            I;|.|.|
                                        """""""""""""""    +     I have no cache         <|i::|i|`.       Pointer?
-       POV: playing Apex                June 10, 2003    '       -not a joke           (`^'"`-' ")    I barely know her
+      POV: playing Apex                 June 10, 2003    '       -not a joke           (`^'"`-' ")    I barely know her
                   __                                   `.            ಠ_ಠ                               (☞ﾟヮﾟ)☞
        ..=====.. |==|    Why did the programmer        "-                     
        || Sup || |= |        quit his job?💻       (   |                .==\""/==.             ---🛠️Work Experience---
