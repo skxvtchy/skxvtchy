@@ -4,9 +4,9 @@ Here are some ideas to get you started:
 -->
 <pre>
 Bienvenido---欢迎---Welcome---いらっしゃい---حفلة استقبال
-                                                                                                             
-- 👋 Hi! I'm James                                                ,:                                          __|_
-- 🤖 Currently: Undergrad @ UB       -just like me fr           ,' |                                     -----oo(_)oo----
+                                                                            *if it looks messed up                                                                   
+- 👋 Hi! I'm James                                                ,:    its cuz ur on an apple device        __|_
+- 🤖 Currently: Undergrad @ UB       -just like me fr           ,' |         whitespace is weird        -----oo(_)oo----
 - 🎓 Graduation: May 2025     ୧༼ಠ益ಠ༽୨                         /   :             __,-~~/~ "" `---.      
 - 📰 Reading Oyasumi PunPun -Rating:★★★★★                 --'   /             _/_,---(      ,    ) 
 - 🎥 Watching Better Call Saul -Rating:★★★★☆              \/ />/          __ /        <    /   )  \___
