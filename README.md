@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👋 Hi! I'm James                                           --'   /             _/_,---(      ,    ) 
 - 🤖 Currently: Undergrad @ UB       -just like me fr        \/ />/          __ /        <    /   )  \___
 - 🎓 Graduation: May 2025     ୧༼ಠ益ಠ༽୨                       /   /_\---===;;;'====------------------===;;;===------ -
-- 📰 Reading Oyasumi PunPun book 5 -Rating:★★★★★       __/   /               \/  ~"~"~"~"~"~\~"~)~"/
+- 📰 Reading Oyasumi PunPun -Rating:★★★★★              __/   /               \/  ~"~"~"~"~"~\~"~)~"/
 - 🎥 Watching Better Call Saul -Rating:★★★★☆           ) '-./                (_ (   \  (     >    \)
 - 🚀 Interests: Stocks/Crypto/ML/WebDev   (_ (            ./  :\                 \_( _ <         >_>'        ( ͡° ͜ʖ ͡°)ﾉ⌐■-■ 
 - 🌎 Website: jamesli.dev                 /_/'_____/)     /.' '                     ~ `-i' ::>|--"           -Rizzard of Oz
