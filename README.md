@@ -20,9 +20,9 @@ Here are some ideas to get you started:
       POV: playing Apex                  June 10, 2003   '       -not a joke           (`^'"`-' ")   I barely know her
                   __                                   `.            ಠ_ಠ                               (☞ﾟヮﾟ)☞
        ..=====.. |==|    Why did the programmer        "-                     
-       || Sup || |= |        quit his job?💻       (   |                .==\""/==.             ---🛠️Work Experience---
+       || Sup || |= |        quit his job?💻       (   |                .==\""/==.           ---🛠️Work Experience---
     _  ||     || |^*| _   He didn't get arrays     . .-'  '.            ((+) .  .:)                               
-   |=| o=,===,=o |__||=|                        ( (.   )):              |'.-(o)-.'|                     -n/a
+   |=| o=,===,=o |__||=|                        ( (.   )):              |'.-(o)-.'|                   -n/a
    |_|  _______)~`)  |_|                   .'      (_ )                 \/  \_/  \/        
        [=======]  ()                       _. :(.      )  `           I dont even own a  
                                          .  (  `-' (  `.   )              console
