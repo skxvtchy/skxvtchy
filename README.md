@@ -3,8 +3,8 @@
 Here are some ideas to get you started:
 -->
 <pre>
-                                                                   ,:                                __|_
----Bienvenido---Welcome---欢迎---                                ,'  |                           -----oo(_)oo----
+                                                                    ,                                 __|_
+---Bienvenido---Welcome---欢迎---                                 ,' |                           -----oo(_)oo----
                                                                 /   :             __,-~~/~ "" `---.      
 - 👋 Hi! I'm James                                           --'   /             _/_,---(      ,    ) 
 - 🤖 Currently: Undergrad @ UB       -just like me fr        \/ />/          __ /        <    /   )  \___
