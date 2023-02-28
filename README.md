@@ -2,8 +2,9 @@
 **skxvtchy/skxvtchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<pre>                                                                 ,:       *if it looks wonky                 __|_
-  Bienvenido---欢迎---Welcome---いらっしゃい---добро пожаловать     ,' |         ur on apple 🍎             -----oo(_)oo----
+<pre>
+                                                                   ,:                                __|_
+---Bienvenido---欢迎---Welcome---いらっしゃい---                   ,' |                           -----oo(_)oo----
                                                                 /   :             __,-~~/~ "" `---.      
 - 👋 Hi! I'm James                                           --'   /             _/_,---(      ,    ) 
 - 🤖 Currently: Undergrad @ UB       -just like me fr        \/ />/          __ /        <    /   )  \___
