@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 -->
 <pre>
----Bienvenido---Welcome---欢迎---                                          ,                              __|_
+---Bienvenido---Welcome---欢迎---                                           ,                             __|_
                                        ---🛠️Work Experience---          ,' |                        -----oo(_)oo----
 - 👋 Hi! I'm James                            NONE:(                   /   :          __,-~~/~ "" `---.      
 - 🤖 Currently: Undergrad @ UB                                      --'   /          _/_,---(      ,    ) 
