@@ -4,11 +4,11 @@ Here are some ideas to get you started:
 -->
 <pre>
                                                                    ,:                                __|_
----Bienvenido---欢迎---Welcome---いらっしゃい---                   ,' |                           -----oo(_)oo----
+---Bienvenido---Welcome---欢迎---                                ,'  |                           -----oo(_)oo----
                                                                 /   :             __,-~~/~ "" `---.      
 - 👋 Hi! I'm James                                           --'   /             _/_,---(      ,    ) 
 - 🤖 Currently: Undergrad @ UB       -just like me fr        \/ />/          __ /        <    /   )  \___
-- 🎓 Graduation: May 2025     ୧༼ಠ益ಠ༽୨                       /   /_\---===;;;'====------------------===;;;===------ -
+- 🎓 Graduation: May 2025     (ಠ ͜ʖರೃ)                        /   /_\---===;;;'====------------------===;;;===------ -
 - 📰 Reading Oyasumi PunPun -Rating:4/5                   __/   /               \/  ~"~"~"~"~"~\~"~)~"/
 - 🎥 Watching Better Call Saul -Rating:4/5                ) '-./                (_ (   \  (     >    \)
 - 🚀 Interests: Stocks/Crypto/ML/WebDev   (_ (            ./  :\                 \_( _ <         >_>'        ( ͡° ͜ʖ ͡°)ﾉ⌐■-■ 
