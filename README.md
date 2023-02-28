@@ -29,5 +29,7 @@ Here are some ideas to get you started:
 </pre>
 <!--
 What you lookin for?🤨
-PLEASE HELP ME I'M BROKE AS FUCK!!!
+PLEASE HELP ME I'M AM CLINICALLY INSANE
+:DISCLAIMER:
+I am not
 -->
