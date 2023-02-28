@@ -20,13 +20,14 @@ Here are some ideas to get you started:
        ..=====.. |==|                                        "-                               
        || Sup || |= |     Why did the programmer          (   |               .==\"'"/==.       Pointer?
     _  ||     || |^*| _       quit his job?              . .-'  '.            ((+) .  .:)   I barely know her
-   |=| o=,===,=o |__||=|    He didn't get arrays      ( (.   )):              |'.-(o)-.'|       (☞ﾟヮﾟ)☞
+   |=| o=,===,=o |__||=|   He didn't get arrays       ( (.   )):              |'.-(o)-.'|       (☞ﾟヮﾟ)☞
    |_|  _______)~`)  |_|                         .'      (_ )                 \/  \_/  \/        
        [=======]  ()                             _. :(.      )  `         I dont own a console
-                                               .  (  `-' (  `.   )       
+                       -just like me fr        .  (  `-' (  `.   )       
                ლ(ಠ_ಠლ)                      .  :  (__    )  )                     Thanks For Visiting!!!
                                          (      "  __(   `"       ` ))                   ⊂(◉‿◉)つ
 </pre>
 <!--
 What you lookin for?🤨
+PLEASE HELP ME I'M BROKE AS FUCK!!!
 -->
