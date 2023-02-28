@@ -2,14 +2,14 @@
 **skxvtchy/skxvtchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<pre>                                                                   ,:       *if it looks wonky                 __|_
-  Bienvenido---欢迎---Welcome---いらっしゃい---حفلة استقبال            ,' |         ur on apple 🍎             -----oo(_)oo----
+<pre>                                                               ,:       *if it looks wonky                 __|_
+  Bienvenido---欢迎---Welcome---いらっしゃい---добро пожаловать    ,' |         ur on apple 🍎             -----oo(_)oo----
                                                                 /   :             __,-~~/~ "" `---.      
 - 👋 Hi! I'm James                                           --'   /             _/_,---(      ,    ) 
 - 🤖 Currently: Undergrad @ UB       -just like me fr        \/ />/          __ /        <    /   )  \___
 - 🎓 Graduation: May 2025     ୧༼ಠ益ಠ༽୨                       /   /_\---===;;;'====------------------===;;;===------ -
-- 📰 Reading Oyasumi PunPun -Rating:★★★★★              __/   /               \/  ~"~"~"~"~"~\~"~)~"/
-- 🎥 Watching Better Call Saul -Rating:★★★★☆           ) '-./                (_ (   \  (     >    \)
+- 📰 Reading Oyasumi PunPun -Rating:4/5                   __/   /               \/  ~"~"~"~"~"~\~"~)~"/
+- 🎥 Watching Better Call Saul -Rating:4/5                ) '-./                (_ (   \  (     >    \)
 - 🚀 Interests: Stocks/Crypto/ML/WebDev   (_ (            ./  :\                 \_( _ <         >_>'        ( ͡° ͜ʖ ͡°)ﾉ⌐■-■ 
 - 🌎 Website: jamesli.dev                 /_/'_____/)     /.' '                     ~ `-i' ::>|--"           -Rizzard of Oz
 - 📫 Reach me @ jamesli784@gmail.com      "  |      |     '/'    pls hire me            I;|.|.|
