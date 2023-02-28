@@ -19,7 +19,7 @@ Here are some ideas to get you started:
                   __                                   `.            ಠ_ಠ                            
        ..=====.. |==|    Why did the programmer        "-                               
        || Sup || |= |        quit his job?💻       (   |                .==\""/==.       Pointer?
-    _  ||     || |^*| _   He didn't get arrays     . .-'  '.            ((+) .  .:)   I barely know her                            
+    _  ||     || |^*| _   He didn't get arrays     . .-'  '.            ((+) .  .:)   I barely know her
    |=| o=,===,=o |__||=|                        ( (.   )):              |'.-(o)-.'|     (☞ﾟヮﾟ)☞
    |_|  _______)~`)  |_|                   .'      (_ )                 \/  \_/  \/        
        [=======]  ()                       _. :(.      )  `         I dont own a console
