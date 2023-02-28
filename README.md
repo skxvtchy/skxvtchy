@@ -6,7 +6,7 @@ Here are some ideas to get you started:
                                                                     ,                              __|_
 ---Bienvenido---Welcome---欢迎---                                 ,' |                        -----oo(_)oo----
                                    ---🛠️Work Experience---      /   :          __,-~~/~ "" `---.      
-- 👋 Hi! I'm James                                           --'   /         _/_,---(      ,    ) 
+- 👋 Hi! I'm James                                           --'   /          _/_,---(      ,    ) 
 - 🤖 Currently: Undergrad @ UB                               \/ />/       __ /        <    /   )  \___
 - 🎓 Graduation: May 2025                                    /  /_\ --===;;;'====------------------===;;;=== -
 - 📰 Reading Oyasumi PunPun -Rating:4/5                   __/   /           \/    ~"~"~"~"~"~\~"~)~"/
