@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 <pre>
 ---Bienvenido---Welcome---欢迎---                                          ,                              __|_
                                        ---🛠️Work Experience---          ,' |                        -----oo(_)oo----
-- 👋 Hi! I'm James                                                     /   :          __,-~~/~ "" `---.      
+- 👋 Hi! I'm James                            NONE:(                   /   :          __,-~~/~ "" `---.      
 - 🤖 Currently: Undergrad @ UB                                      --'   /          _/_,---(      ,    ) 
 - 🎓 Graduation: May 2025                                           \/ />/       __ /        <    /   )  \___
 - 📰 Reading Oyasumi PunPun -Rating:4/5                             /  /_\ --===;;;'====------------------===;;;=== -
@@ -17,13 +17,16 @@ Here are some ideas to get you started:
                                          """""""""""""""         +     I have no cache     <|i::|i|`.   ( ͡° ͜ʖ ͡°)ﾉ⌐■-■
       POV: playing Apex                  June 10, 2003         '       -not a joke       (`^'"`-' ")   -Rizzard of Oz 
                   __                                         `.            ಠ_ಠ                            
-       ..=====.. |==|    Why did the programmer              "-                               
-       || Sup || |= |        quit his job?💻             (   |                .==\""/==.       Pointer?
-    _  ||     || |^*| _   He didn't get arrays           . .-'  '.            ((+) .  .:)   I barely know her
-   |=| o=,===,=o |__||=|                              ( (.   )):              |'.-(o)-.'|     (☞ﾟヮﾟ)☞
+       ..=====.. |==|                                        "-                               
+       || Sup || |= |     Why did the programmer          (   |               .==\"'"/==.       Pointer?
+    _  ||     || |^*| _       quit his job?              . .-'  '.            ((+) .  .:)   I barely know her
+   |=| o=,===,=o |__||=|    He didn't get arrays      ( (.   )):              |'.-(o)-.'|       (☞ﾟヮﾟ)☞
    |_|  _______)~`)  |_|                         .'      (_ )                 \/  \_/  \/        
        [=======]  ()                             _. :(.      )  `         I dont own a console
                                                .  (  `-' (  `.   )       
                ლ(ಠ_ಠლ)                      .  :  (__    )  )                     Thanks For Visiting!!!
                                          (      "  __(   `"       ` ))                   ⊂(◉‿◉)つ
 </pre>
+<!--
+What you lookin for?🤨
+-->
