@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 👋 Hi! I'm James                            NONE:(                   /   :          __,-~~/~ "" `---.      
 - 🤖 Currently: Undergrad @ UB                                      --'   /          _/_,---(      ,    ) 
 - 🎓 Graduation: May 2025                                           \/ />/       __ /        <    /   )  \___
-- 📰 Reading Oyasumi PunPun -Rating:4/5                             /  /_\ --===;;;'====------------------===;;;=== -
-- 🎥 Watching Better Call Saul -Rating:4/5                       __/   /           \/    ~"~"~"~"~"~\~"~)~"/
+- 📰 Reading: Oyasumi PunPun -Rating:4.5/5                          /  /_\ --===;;;'====------------------===;;;=== -
+- 🎥 Watching: Better Call Saul -Rating:4/5                      __/   /           \/    ~"~"~"~"~"~\~"~)~"/
 - 🚀 Interests: Stocks/Crypto/ML/WebDev                          ) '-./             (_ (   \  (     >    \)
 - 🥪 Favorite Food: Chicken Sandwich      (_ (                   ./  :\              \_( _ <         >_>'  
 - 🌎 Website: jamesli.dev                 /_/'_____/)            /.' '                  ~ `-i' ::>|--"        
