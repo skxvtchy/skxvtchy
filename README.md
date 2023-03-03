@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 - 📰 Reading: Oyasumi PunPun -Rating:4.5/5                          /  /_\ --===;;;'====------------------===;;;=== -
 - 🎥 Watching: Better Call Saul -Rating:4/5                      __/   /           \/    ~"~"~"~"~"~\~"~)~"/
 - 🚀 Interests: Stocks/Crypto/ML/WebDev                          ) '-./             (_ (   \  (     >    \)
-- 🥪 Favorite Food: Chicken Sandwich      (_ (                   ./  :\              \_( _ <         >_>'  
-- 🌎 Website: jamesli.dev                 /_/'_____/)            /.' '                  ~ `-i' ::>|--"        
-- 📫 Reach me @ jamesli784@gmail.com      "  |      |            '/'    pls hire me        I;|.|.|
-                                         """""""""""""""         +    I have no cache      <|i::|i|`.   ( ͡° ͜ʖ ͡°)ﾉ⌐■-■
-      POV: playing Apex                  June 10, 2003         '        -not a joke       (`^'"`-' ")   -Rizzard of Oz 
+- 🥪 Favorite Food: Chicken Sandwich         (_ (                ./  :\              \_( _ <         >_>'  
+- 🌎 Website: jamesli.dev                    /_/'_____/)         /.' '                  ~ `-i' ::>|--"        
+- 📫 Reach me @ jamesli784@gmail.com         "  |      |         '/'    pls hire me        I;|.|.|
+                                            """""""""""""""      +    I have no cache      <|i::|i|`.   ( ͡° ͜ʖ ͡°)ﾉ⌐■-■
+      POV: playing Apex                      June 10, 2003     '        -not a joke       (`^'"`-' ")   -Rizzard of Oz 
                   __                                         `.            ಠ_ಠ                            
        ..=====.. |==|                                        "-                               
        || Sup || |= |     Why did the programmer          (   |            .==\"'"/==.       Pointer?
