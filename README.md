@@ -17,12 +17,12 @@ Here are some ideas to get you started:
                                           """""""""""""""      +    I have no cache       <|i::|i|`.   ( ͡° ͜ʖ ͡°)ﾉ⌐■-■
       POV: playing Apex                    June 10, 2003     '        -not a joke        (`^'"`-' ")   -Rizzard of Oz 
                   __                                       `.            ಠ_ಠ                            
-       ..=====.. |==|                                      "-                               
-       || Sup || |= |     Why did the programmer        (   |            .==\"'"/==.       Pointer?
-    _  ||     || |^*| _       quit his job?            . .-'  '.         ((+) .  .:)   I barely know her
-   |=| o=,===,=o |__||=|   He didn't get arrays     ( (.   )):           |'.-(o)-.'|       (☞ﾟヮﾟ)☞
-   |_|  _______)~`)  |_|                       .'      (_ )              \/  \_/  \/        
-       [=======]  ()                           _. :(.      )  `      I dont own a console
+       ..=====.. |==|                                      "-                                         ---Languages---
+       || Sup || |= |     Why did the programmer        (   |       .==\"'"/==.       Pointer?          javascript
+    _  ||     || |^*| _       quit his job?            . .-'  '.    ((+) .  .:)   I barely know her       python
+   |=| o=,===,=o |__||=|   He didn't get arrays     ( (.   )):      |'.-(o)-.'|       (☞ﾟヮﾟ)☞             C
+   |_|  _______)~`)  |_|                       .'      (_ )         \/  \_/  \/                           Scala
+       [=======]  ()                           _. :(.      )  ` I dont own a console
                        -just like me fr      .  (  `-' (  `.   )       
                ლ(ಠ_ಠლ)                    .  :  (__    )  )                     Thanks For Visiting!!!
                                        (      "  __(   `"       ` ))                   ⊂(◉‿◉)つ
