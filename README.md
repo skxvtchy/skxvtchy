@@ -2,6 +2,15 @@
 **skxvtchy/skxvtchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+<p align="center"><br>
+  <samp>
+    Hi! I'm James
+    <br>
+    Current Undergrad @ 🐃 University at Buffalo for Computer Science B.S
+  </samp>
+</p>
+<details>
+   <summary align = "center"> <samp> Click Here For More</samp></summary>
 <pre>
 ---Bienvenido---Welcome---欢迎---                                         ,;                              __|_
                                         ---🛠️Work Experience---        ,' |                         -----oo(_)oo----
@@ -27,7 +36,7 @@ Here are some ideas to get you started:
                ლ(ಠ_ಠლ)                     .  :  (__    )  )                                 He didn't get arrays
                                         (      "  __(   `"       ` ))
 </pre>
-
+</details>
 <p align="center">
 <a href="" target="_blank"><img alt="Html" src="https://img.shields.io/website?label=%20&logo=HTML5&logoColor=%23FFF&up_color=%23FF7800&up_message=HTML&url=https%3A%2F%2Fgithub.com%2Fskxvtchy%3Ftab%3Drepositories"></a>
 <a href="" target="_blank"><img alt="CSS" src="https://img.shields.io/website?label=%20&logo=css3&logoColor=%23&up_color=%230061DF&up_message=CSS&url=https%3A%2F%2Fgithub.com%2Fskxvtchy%3Ftab%3Drepositories"></a>
