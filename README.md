@@ -7,6 +7,8 @@ Here are some ideas to get you started:
     Hi! I'm James
     <br>
     Current Undergrad @ 🐃 University at Buffalo for Computer Science B.S
+    <br>
+    <a href="Jamesli.dev">Website<a>
   </samp>
 </p>
 <details>
