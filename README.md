@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 👋 Hi! I'm James                             None YET               /   :          __,-~~/~ "" `---.      
 - 🤖 Currently: Undergrad @ UB                    :(               --'   /          _/_,---(      ,    ) 
 - 🎓 Graduation: May 2025                                          \/ />/       __ /        <    /   )  \___
-- 📰 Reading: Vagabond -Rating:4.5/5     Thanks For Visiting      /  /_\ --===;;;'====------------------===;;;=== -
-- 🎥 Watching: Tetrs -Rating:4.7/5            ⊂(◉‿◉)つ       __/   /           \/    ~"~"~"~"~"~\~"~)~"/
+- 📰 Reading: Vagabond -Rating:4.5/5                              /  /_\ --===;;;'====------------------===;;;=== -
+- 🎥 Watching: Tetrs -Rating:4.7/5                             __/   /           \/    ~"~"~"~"~"~\~"~)~"/
 - 🚀 Interests: Stocks/Crypto/ML/WebDev                        ) '-./             (_ (   \  (     >    \)
 - 🥪 Favorite Food: Chicken Sandwich                           ./  :\              \_( _ <         >_>'  
 - 🌎 Website: jamesli.dev                                      /.' '                  ~ `-i' ::>|--"        
@@ -48,4 +48,6 @@ I am not
 ---⚒️Languages & Frameworks---
 website for badges - https://shields.io/
 icon for shields - https://simpleicons.org/
+Thanks For Visiting
+⊂(◉‿◉)つ
 -->
