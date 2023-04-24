@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img alt="React" src="https://img.shields.io/website?label=%20&logo=React&logoColor=%23FFF&up_color=48C3FF&up_message=React&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%3Fcolor%3D%25231B6DC0%26label%3DPython%26logo%3Dpython%26logoColor%3D%2523FFF%26url%3Dhttps%253A%252F%252Fgithub.com%252Fskxvtchy%252Fjamesli.dev"></a>
 <a href="" target="_blank"><img alt="Three.js"  src="https://img.shields.io/website?label=%20&logo=Three.js&logoColor=%23FFF&up_color=%23949494&up_message=Three.js&url=https%3A%2F%2Fgithub.com%2Fskxvtchy%3Ftab%3Drepositories"></a>
 </p>
+<br>
 
 <!--
 What you lookin for?🤨
@@ -60,3 +61,4 @@ icon for shields - https://simpleicons.org/
 Thanks For Visiting
 ⊂(◉‿◉)つ
 -->
+
