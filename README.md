@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🤖 Currently: Undergrad @ UB                    :(               --'   /          _/_,---(      ,    ) 
 - 🎓 Graduation: May 2025                                          \/ />/       __ /        <    /   )  \___
 - 📰 Reading: Vagabond -Rating:4.5/5                              /  /_\ --===;;;'====------------------===;;;=== -
-- 🎥 Watching: Tetrs -Rating:4.7/5                             __/   /           \/    ~"~"~"~"~"~\~"~)~"/
+- 🎥 Watching: Tetris -Rating:4.7/5                            __/   /           \/    ~"~"~"~"~"~\~"~)~"/
 - 🚀 Interests: Stocks/Crypto/ML/WebDev                        ) '-./             (_ (   \  (     >    \)
 - 🥪 Favorite Food: Chicken Sandwich                           ./  :\              \_( _ <         >_>'  
 - 🌎 Website: jamesli.dev                                      /.' '                  ~ `-i' ::>|--"        
