@@ -8,7 +8,10 @@ Here are some ideas to get you started:
     <br>
     Current Undergrad @ 🐃 University at Buffalo for Computer Science B.S
     <br>
-    <a href="Jamesli.dev">Website<a>
+    Website -
+    <a href="https://Jamesli.dev/" target="_blank">jamesli.dev</a>
+    <br>
+    <a href="https://Jamesli.dev/Resume" target="_blank">Resume</a>
   </samp>
 </p>
 <details>
