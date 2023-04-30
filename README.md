@@ -2,30 +2,21 @@
 **skxvtchy/skxvtchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<p align="center"><br>
-  <samp>
-    Hi! I'm James
-    <br>
-    Current Undergrad @ 🐃 University at Buffalo for Computer Science B.S
-    <br>
-    Website -
-    <a href="https://Jamesli.dev/" target="_blank">jamesli.dev</a>
-    <br>
-    <a href="https://Jamesli.dev/Resume" target="_blank">Resume</a>
-  </samp>
-</p>
+<h1 align="center">
+--- Welcome To My Portfolio ---
+</h1>
 
 <pre>
 ---Bienvenido---Welcome---欢迎---                                         ,;                              __|_
                                         ---🛠️Work Experience---        ,' |                         -----oo(_)oo----
 - 👋 Hi! I'm James                             None YET               /   :          __,-~~/~ "" `---.      
 - 🤖 Currently: Undergrad @ UB                    :(               --'   /          _/_,---(      ,    ) 
-- 🎓 Graduation: May 2025                                          \/ />/       __ /        <    /   )  \___
+- 🎓 Graduation: May 2024                                          \/ />/       __ /        <    /   )  \___
 - 📰 Reading: Vagabond -Rating:4.5/5                              /  /_\ --===;;;'====------------------===;;;=== -
 - 🎥 Watching: Tetris -Rating:4.7/5                            __/   /           \/    ~"~"~"~"~"~\~"~)~"/
 - 🚀 Interests: Stocks/Crypto/ML/WebDev                        ) '-./             (_ (   \  (     >    \)
 - 🥪 Favorite Food: Chicken Sandwich                           ./  :\              \_( _ <         >_>'  
-- 🌎 Website: jamesli.dev                                      /.' '                  ~ `-i' ::>|--"        
+- 🌎 Website | Resume: <a href="https://Jamesli.dev/" target="_blank">jamesli.dev</a> | <a href="https://Jamesli.dev/Resume" target="_blank">Resume</a>                       /.' '                  ~ `-i' ::>|--"        
 - 📫 Reach me @ jamesli784@gmail.com        We live in a      '/'      pls hire me        I;|.|.|
                                                 社会            +     I have no cache      <|i::|i|`.   ( ͡° ͜ʖ ͡°)ﾉ⌐■-■
       POV: playing Apex                                       '         -not a joke       (`^'"`-' ")   -Rizzard of Oz 
