@@ -5,19 +5,19 @@ Here are some ideas to get you started:
 <details open><summary align= "center">---🛠️WELCOME🛠️---</summary>
 <p align = "center">☆*ੈ✩‧₊˚ ୧༼ಠ益ಠ༽୨ ˚₊‧✩*ੈ☆</p>
 <pre>
----Bienvenido---Welcome---欢迎---                                         ,;                              __|_
-                                   ---🛠️Currently Working On---        ,' |                         -----oo(_)oo----
-- 👋 Hi! I'm James                     -Getting this Degree           /   :          __,-~~/~ "" `---.      
-- 🤖 Currently: Undergrad @ UB          -Website Portfolio         --'   /          _/_,---(      ,    ) 
+---Bienvenido---Welcome---欢迎---                                        ,;                              __|_
+                                   ---🛠️Currently Working On---       ,' |                         -----oo(_)oo----
+- 👋 Hi! I'm James                     -Getting this Degree          /   :          __,-~~/~ "" `---.      
+- 🤖 Currently: Undergrad @ UB          -Website Portfolio        --'   /          _/_,---(      ,    ) 
 - 🎓 Graduation: May 2024               -Learning Three.js        \/ />/       __ /        <    /   )  \___
 - 📰 Reading: Vagabond -Rating:4.5/5        -LeetCode             /  /_\ --===;;;'====------------------===;;;=== -
 - 🎥 Watching: Tetris -Rating:4.7/5                            __/   /           \/    ~"~"~"~"~"~\~"~)~"/
 - 🚀 Interests: Stocks/Crypto/ML/WebDev                        ) '-./             (_ (   \  (     >    \)
 - 🥪 Favorite Food: Chicken Sandwich                           ./  :\              \_( _ <         >_>'  
-- 🌎 Website | Resume: <a href="https://Jamesli.dev/" target="_blank">jamesli.dev</a> | <a href="https://Jamesli.dev/Resume" target="_blank">Resume</a>                       /.' '                  ~ `-i' ::>|--"        
+- 🌎 Website | Resume: <a href="https://Jamesli.dev/" target="_blank">jamesli.dev</a> | <a href="https://Jamesli.dev/Resume" target="_blank">Resume</a>                    /.' '                  ~ `-i' ::>|--"        
 - 📫 Reach me @ jamesli784@gmail.com        We live in a      '/'      pls hire me        I;|.|.|
-                                                社会            +     I have no cache      <|i::|i|`.   ( ͡° ͜ʖ ͡°)ﾉ⌐■-■
-      POV: playing Apex                                       '         -not a joke       (`^'"`-' ")   -Rizzard of Oz 
+                                                社会            +     I have no cache     <|i::|i|`.   ( ͡° ͜ʖ ͡°)ﾉ⌐■-■
+      POV: playing Apex                                       '         -not a joke      (`^'"`-' ")   -Rizzard of Oz 
                   __              * Chinese Zodiac          `.             ಠ_ಠ                    
        ..=====.. |==|         (_ (                          "-
        || Sup || |= |         /_/'_____/)                (   |       .==\"'"/==.       Pointer?
