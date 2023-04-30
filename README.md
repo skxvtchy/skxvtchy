@@ -2,7 +2,7 @@
 **skxvtchy/skxvtchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<details open><summary align= "center">---🛠️WELCOME🛠️---</summary>
+
 <p align = "center">☆*ੈ✩‧₊˚ ୧༼ಠ益ಠ༽୨ ˚₊‧✩*ੈ☆</p>
 <pre>
 ---Bienvenido---Welcome---欢迎---                                         ,;                              __|_
