@@ -2,7 +2,8 @@
 **skxvtchy/skxvtchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-
+<details open><summary align= "center">---🛠️WELCOME🛠️---</summary>
+<p align = "center">☆*ੈ✩‧₊˚ ୧༼ಠ益ಠ༽୨ ˚₊‧✩*ੈ☆</p>
 <pre>
 ---Bienvenido---Welcome---欢迎---                                         ,;                              __|_
                                    ---🛠️Currently Working On---        ,' |                         -----oo(_)oo----
@@ -31,10 +32,7 @@ Here are some ideas to get you started:
 <details align="center"><summary>---🛠️Work Experience🛠️---</summary>
 None YET :)</details><details align="center"><summary>---⚒️Languages & Frameworks⚒️---</summary>
 <p align="center"><a href="" target="_blank"><img alt="Html" src="https://img.shields.io/website?label=%20&logo=HTML5&logoColor=%23FFF&up_color=%23FF7800&up_message=HTML&url=https%3A%2F%2Fgithub.com%2Fskxvtchy%3Ftab%3Drepositories"></a><a href="" target="_blank"><img alt="CSS" src="https://img.shields.io/website?label=%20&logo=css3&logoColor=%23&up_color=%230061DF&up_message=CSS&url=https%3A%2F%2Fgithub.com%2Fskxvtchy%3Ftab%3Drepositories"></a><a href="" target="_blank"><img alt="Javascript" src="https://img.shields.io/website?label=%20&logo=JavaScript&logoColor=%23FFF&up_color=FFF000&up_message=JavaScript&url=https%3A%2F%2Fgithub.com%2Fskxvtchy%3Ftab%3Drepositories"></a><a href="" target="_blank"><img alt="Python" src="https://img.shields.io/website?label=%20&logo=python&logoColor=%23FFF&up_color=1B6DC0&up_message=Python&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%3Fcolor%3D%25231B6DC0%26label%3DPython%26logo%3Dpython%26logoColor%3D%2523FFF%26url%3Dhttps%253A%252F%252Fgithub.com%252Fskxvtchy%252Fjamesli.dev"></a><a href="" target="_blank"><img alt="C" src="https://img.shields.io/website?label=%20&logo=C%2B%2B&logoColor=%23FFF&up_color=%236C1FFF&up_message=C%2B%2B&url=https%3A%2F%2Fgithub.com%2Fskxvtchy%3Ftab%3Drepositories"></a><a href="" target="_blank"><img alt="Scala" src="https://img.shields.io/website?label=%20&logo=Scala&logoColor=%23FFF&up_color=%23CB0000&up_message=Scala&url=https%3A%2F%2Fgithub.com%2Fskxvtchy%3Ftab%3Drepositories"></a>  
-<a href="" target="_blank"><img alt="React" src="https://img.shields.io/website?label=%20&logo=React&logoColor=%23FFF&up_color=48C3FF&up_message=React&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%3Fcolor%3D%25231B6DC0%26label%3DPython%26logo%3Dpython%26logoColor%3D%2523FFF%26url%3Dhttps%253A%252F%252Fgithub.com%252Fskxvtchy%252Fjamesli.dev"></a><a href="" target="_blank"><img alt="Three.js"  src="https://img.shields.io/website?label=%20&logo=Three.js&logoColor=%23FFF&up_color=%23949494&up_message=Three.js&url=https%3A%2F%2Fgithub.com%2Fskxvtchy%3Ftab%3Drepositories"></a>
-</p>
-</details>
-</pre>
+<a href="" target="_blank"><img alt="React" src="https://img.shields.io/website?label=%20&logo=React&logoColor=%23FFF&up_color=48C3FF&up_message=React&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%3Fcolor%3D%25231B6DC0%26label%3DPython%26logo%3Dpython%26logoColor%3D%2523FFF%26url%3Dhttps%253A%252F%252Fgithub.com%252Fskxvtchy%252Fjamesli.dev"></a><a href="" target="_blank"><img alt="Three.js"  src="https://img.shields.io/website?label=%20&logo=Three.js&logoColor=%23FFF&up_color=%23949494&up_message=Three.js&url=https%3A%2F%2Fgithub.com%2Fskxvtchy%3Ftab%3Drepositories"></a></p></details></pre>  </details>
 <!--
 What you lookin for?🤨
 PLEASE HELP ME I'M AM CLINICALLY INSANE
