@@ -14,8 +14,7 @@ Here are some ideas to get you started:
     <a href="https://Jamesli.dev/Resume" target="_blank">Resume</a>
   </samp>
 </p>
-<details>
-   <summary align = "center"> <samp> Click Here For More</samp></summary>
+
 <pre>
 ---Bienvenido---Welcome---欢迎---                                         ,;                              __|_
                                         ---🛠️Work Experience---        ,' |                         -----oo(_)oo----
