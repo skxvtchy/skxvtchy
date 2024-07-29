@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🎥 Watching: Tetris -Rating:4.7/5                            __/   /           \/    ~"~"~"~"~"~\~"~)~"/
 - 🚀 Interests: Stocks/Crypto/ML/WebDev                        ) '-./             (_ (   \  (     >    \)
 - 🥪 Favorite Food: Chicken Sandwich                           ./  :\              \_( _ <         >_>'  
-- 🌎 Website | Resume: <a href="https://Jamesli.dev/" target="_blank">jamesli.dev</a> | <a href="Resume.pdf" target="_blank">Resume</a>                    /.' '                  ~ `-i' ::>|--"        
+- 🌎 Website | Resume: <a href="https://linkrapp.com/" target="_blank">jamesli.dev</a> | <a href="Resume.pdf" target="_blank">Resume</a>                    /.' '                  ~ `-i' ::>|--"        
 - 📫 Reach me @ jamesli784@gmail.com        We live in a      '/'      pls hire me        I;|.|.|
                                                 社会            +     I have no cache     <|i::|i|`.   ( ͡° ͜ʖ ͡°)ﾉ⌐■-■
       POV: playing Apex                                       '         -not a joke      (`^'"`-' ")   -Rizzard of Oz 
