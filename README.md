@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 <pre>
 ---Bienvenido---Welcome---欢迎---                                        ,;                              __|_
                                    ---🛠️Currently Working On---       ,' |                         -----oo(_)oo----
-- 👋 Hi! I'm James                          -Linkr                   /   :          __,-~~/~ "" `---.      
-- 🤖 Currently: Graduated              -Website Portfolio         --'   /          _/_,---(      ,    ) 
-- 🎓 Graduation: Aug 2024                  -LeetCode              \/ />/       __ /        <    /   )  \___
+- 👋 Hi! I'm James                          -Saute                   /   :          __,-~~/~ "" `---.      
+- 🤖 Currently: Graduated                                         --'   /          _/_,---(      ,    ) 
+- 🎓 Graduation: Aug 2024                                         \/ />/       __ /        <    /   )  \___
 - 📰 Reading: Vagabond -Rating:4.5/5                              /  /_\ --===;;;'====------------------===;;;=== -
 - 🎥 Watching: Tetris -Rating:4.7/5                            __/   /           \/    ~"~"~"~"~"~\~"~)~"/
 - 🚀 Interests: Stocks/Crypto/ML/WebDev                        ) '-./             (_ (   \  (     >    \)
