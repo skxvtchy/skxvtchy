@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 - 📫 Reach me @ jamesli784@gmail.com        We live in a      '/'      pls hire me        I;|.|.|
                                                 社会            +     I have no cache     <|i::|i|`.   ( ͡° ͜ʖ ͡°)ﾉ⌐■-■
       POV: playing Apex                                       '         -not a joke      (`^'"`-' ")   -Rizzard of Oz 
-                  __              * Chinese Zodiac          `.             ಠ_ಠ                    
+                  __              * Zodiac                   `.             ಠ_ಠ                    
        ..=====.. |==|         (_ (                          "-
        || Sup || |= |         /_/'_____/)                (   |       .==\"'"/==.       Pointer?
     _  ||     || |^*| _       "  |      |               . .-'  '.    ((+) .  .:)   I barely even know her
    |=| o=,===,=o |__||=|     """""""""""""""         ( (.   )):      |'.-(o)-.'|       (☞ﾟヮﾟ)☞            
-   |_|  _______)~`)  |_|     June 10, 2003      .'      (_ )         \/  \_/  \/
+   |_|  _______)~`)  |_|                        .'      (_ )         \/  \_/  \/
        [=======]  ()                            _. :(.      )  `                              Why did the programmer
                        -just like me fr       .  (  `-' (  `.   )            ⊂(◉‿◉)つ           quit his job?
                ლ(ಠ_ಠლ)                     .  :  (__    )  )                                 He didn't get arrays
