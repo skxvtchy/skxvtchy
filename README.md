@@ -42,11 +42,16 @@ October 2022
 What you lookin for?🤨
 PLEASE HELP ME I'M AM CLINICALLY INSANE
 :DISCLAIMER:
-I am not 
+I am not *i hope
 ---⚒️Languages & Frameworks---
 website for badges - https://shields.io/
 icon for shields - https://simpleicons.org/
 Thanks For Visiting
 ⊂(◉‿◉)つ
+              
+     (_ (     *goat lowkey me
+     /_/'____/)
+     " | |    |
+       |"|''''|
 -->
 
